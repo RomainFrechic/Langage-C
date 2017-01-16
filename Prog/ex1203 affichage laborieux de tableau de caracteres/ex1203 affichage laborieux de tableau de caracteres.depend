@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445419366 source:c:\users\freef_000\desktop\romain\begc4d\prog\ex1203 affichage laborieux de tableau de caracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+

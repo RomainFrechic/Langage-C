@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443220829 source:c:\users\freef_000\desktop\romain\begc4d\prog\exnet07\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

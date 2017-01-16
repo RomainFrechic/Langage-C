@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446777271 source:c:\users\freef_000\desktop\romain\begc4d\prog\programme de modification de fichier et de recherche\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<string.h>
+	<errno.h>
+	<time.h>
+

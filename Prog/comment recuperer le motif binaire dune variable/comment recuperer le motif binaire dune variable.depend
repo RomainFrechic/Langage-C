@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446777989 source:c:\users\freef_000\desktop\romain\begc4d\prog\comment recuperer le motif binaire dune variable\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446712403 source:c:\users\freef_000\desktop\romain\begc4d\prog\f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	<windows.h>
+

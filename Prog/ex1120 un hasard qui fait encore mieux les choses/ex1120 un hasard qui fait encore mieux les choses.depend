@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445242170 source:c:\users\freef_000\desktop\romain\begc4d\prog\ex1120 un hasard qui fait encore mieux les choses\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
